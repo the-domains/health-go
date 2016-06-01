@@ -1,8 +1,7 @@
 layout_spectrum: 0.07714743
-typography_spectrum: 0.6057348
 color:
-  saturation: 0
-  lightness: 0.5501792
+  saturation: 0.7544803
+  lightness: 0.8996416
   brandStrength: 0.516129
   brandColors:
     - '#FFFFFF'
@@ -11,4 +10,5 @@ color:
     - '#466500'
     - '#083F9F'
   rhythmicContrast: 0.08781362
+typography_spectrum: 0.6057348
 name: 'Health&Go'
